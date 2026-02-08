@@ -1,7 +1,4 @@
-const appContainer = document.getElementById('app');
-
-const widgetHTML = `
-
+document.write(`
     <div id="fhl-toast-notification" class="fhl-toast"></div>
     <div id="fhl-widget-container" class="hidden">
         <div class="fhl-indicator-track" id="fhl-indicator-track">
@@ -57,9 +54,4 @@ const widgetHTML = `
             </div>
         </div>
     </div>
-
-`;
-
-if (appContainer) {
-    appContainer.innerHTML = widgetHTML;
-}
+`);
