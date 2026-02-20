@@ -45,15 +45,15 @@ document.write(`
                 <div class="fhl-search-results" id="fhl-search-results"></div>
                 <div class="fhl-fixed-panel">
                     <a href="#" id="fhl-search-add-btn" rel="nofollow" class="fhl-fixed-item">
-                        <img src="https://cdn.jsdelivr.net/npm/remixicon@4.9.1/icons/Business/shake-hands-line.svg" class="remix-icon">
+                        <img src="https://cdn.jsdelivr.net/gh/sllkx/addly@main/icon/4.png" class="remix-icon">
                     </a>
-                    <a href="https://logig.im" id="fhl-fixed-question" class="fhl-fixed-item"><img style='width:24px;border-radius:50%' src='https://www.google.com/s2/favicons?sz=64&domain_url=https://logig.im' alt=''></a>
-                    <a href="https://addly.isai.kr" rel="nofollow" id="fhl-fixed-chat" class="fhl-fixed-item"><img style='width:24px;border-radius:50%' src='https://www.google.com/s2/favicons?sz=64&domain_url=https://addly.isai.kr' alt=''></a>
-                    <a href="https://webstore.isai.kr" id="fhl-fixed-info" rel="nofollow" class="fhl-fixed-item"><img style='width:24px;border-radius:50%' src='https://www.google.com/s2/favicons?sz=64&domain_url=https://webstore.isai.kr' alt=''></a>
+                    <a href="https://logig.im" id="fhl-fixed-question" class="fhl-fixed-item"><img style='width:24px;border-radius:50%' src='https://cdn.jsdelivr.net/gh/sllkx/addly@main/icon/6.png' alt=''></a>
+                    <a href="https://addly.isai.kr" rel="nofollow" id="fhl-fixed-chat" class="fhl-fixed-item"><img style='width:24px;border-radius:50%' src='https://cdn.jsdelivr.net/gh/sllkx/addly@main/icon/9.png' alt=''></a>
+                    <a href="https://webstore.isai.kr" id="fhl-fixed-info" rel="nofollow" class="fhl-fixed-item"><img style='width:24px;border-radius:50%' src='https://cdn.jsdelivr.net/gh/sllkx/addly@main/icon/11.png' alt=''></a>
+                    <a href="https://olla.isai.kr" id="fhl-fixed-info" rel="nofollow" class="fhl-fixed-item"><img style='width:24px;border-radius:50%' src='https://cdn.jsdelivr.net/gh/sllkx/olla@main/ring64.png' alt=''></a>
                 </div>
             </div>
         </div>
     </div>
 </div>
 `);
-
